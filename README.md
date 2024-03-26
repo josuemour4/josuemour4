@@ -5,7 +5,7 @@
 - 🇧🇷 I am Josue, from Brazil and a family person 👪
 - 📌 Currently living in Australia 🐧
 - 😄  I have been an electrician for over 8 years and have worked in the technology field for over 10. 
-- 🔍 Looking into ** Web opportunities ** Opportunities
+- 🔍 Looking into ** web work as a volunteer ** Opportunities
 - 👀 I’m interested in technology, sport, music, cook, anything that is healthy.
 - 🌱 I’m currently learning web technologies, especially node.js and react.
 - 💞️ I’m looking to collaborate on javascript projects to get better experience.
