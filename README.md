@@ -1,4 +1,4 @@
-![banner](img/35.gif)
+![banner](img/25.gif)
 
 - 👋 Hi, I’m @josuemour4 a family person.
 - 😄 Pronouns: I have been an electrician for over 8 years and have worked in the technology field for over 10. I currently live in Australia and work as an electrician in the construction industry.
