@@ -9,7 +9,7 @@
 - 👀 I’m interested in technology, sport, music, cook, anything that is healthy.
 - 🌱 I’m currently learning web technologies, especially node.js and react.
 - 💞️ I’m looking to collaborate on javascript projects to get better experience.
-- 📫 To each me <a href="https://josuemour4.github.io" target="_blank" rel="noreferrer"> <img alt="Josue Moura's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+- 📫 To each me <a href="https://josuemour4.github.io" target='_blank' rel="noreferrer"> <img alt="Josue Moura's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
 - ⚡ Fun fact: ...
 
 <!---
