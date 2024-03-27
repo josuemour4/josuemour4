@@ -1,8 +1,11 @@
 ![banner](img/35.gif)
 
 ---
+<div style="display: flex; align-items: center;">
+  <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-electrician-professions-men-diversity-flaticons-lineal-color-flat-icons.png" alt="external-electrician-professions-men-diversity-flaticons-lineal-color-flat-icons"/>
+  <div style="margin-left: 10px;">Hi, my name is Josue from Brazil 🇧🇷, I personally consider myself a family person 👪.</div>
+</div>
 
-- 🇧🇷 I am Josue, from Brazil and a family person 👪
 - 📌 Currently living in Australia 🐧
 - 😄  I have been an electrician for over 8 years and have worked in the technology field for over 10. 
 - 🔍 Looking into ** web work as a volunteer ** Opportunities
