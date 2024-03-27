@@ -6,6 +6,7 @@
   <div style="margin-left: 10px;">Hi, my name is Josue from Brazil 🇧🇷, I personally consider myself a family person 👪.</div>
 </div>
 
+---
 - 📌 Currently living in Australia 🐧
 - 😄  I have been an electrician for over 8 years and have worked in the technology field for over 10. 
 - 🔍 Looking into ** web work as a volunteer ** Opportunities
