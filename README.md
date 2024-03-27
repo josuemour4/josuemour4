@@ -3,7 +3,7 @@
 ---
 <div style="display: flex; align-items: center;">
   <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-electrician-professions-men-diversity-flaticons-lineal-color-flat-icons.png" alt="external-electrician-professions-men-diversity-flaticons-lineal-color-flat-icons"/>
-  <div style="margin-left: 10px;">Hi, my name is Josue from Brazil 🇧🇷, I personally consider myself a family person 👪.</div>
+  <div style="margin-left: 10px;">Hi, my name is Josue from Brazil 🇧🇷. I personally consider myself a family person 👪.</div>
 </div>
 
 ---
