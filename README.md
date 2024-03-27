@@ -3,17 +3,30 @@
 ---
 <div style="display: flex; align-items: center;">
   <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-electrician-professions-men-diversity-flaticons-lineal-color-flat-icons.png" alt="external-electrician-professions-men-diversity-flaticons-lineal-color-flat-icons"/>
-  <div style="margin-left: 10px;">Hi, my name is Josue from Brazil 🇧🇷. I personally consider myself a family person 👪.</div>
+  <div style="margin-left: 10px;">Hi, my name is Josue from Brazil 🇧🇷, married and father of a beautiful girl. I personally consider myself a family person 👪.</div>
 </div>
 
+### Academic education::
+
+- ⏚ Electronics Technician: ETEC - Brazil
+- 🖥️ Industrial Automation: Faculdade UniAnchieta - Brazil
+- 🌐 Analysis and Systems Development: Anhanguera - Brazil
+- ⚡ Electrotechnology Electrician: Superior Training Center - Australia
+
+  
 ---
+
+### Talking about myself
+
 - 📌 Currently living in Australia 🐧
 - 😄  I have been an electrician for over 8 years and have worked in the technology field for over 10. 
 - 🔍 Looking into ** web work as a volunteer ** Opportunities
 - 👀 I’m interested in technology, sport, music, cook, anything that is healthy.
 - 🌱 I’m currently learning web technologies, especially node.js and react.
 - 💞️ I’m looking to collaborate on javascript projects to get better experience.
-- 📫 To each me <a href="https://josuemour4.github.io" target='_blank' rel="noreferrer"> <img alt="Josue Moura's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+- 📫 To each me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-moura-1016052b9/)
+[![Website Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://josuemour4.github.io/)
+<a href = "mailto: josuepaulista@hotmail.com">[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]</a>
 - ⚡ Fun fact: ...
 
 
@@ -31,18 +44,21 @@
 
 ## 🗨 Languages + 🛠 Tools
 
-<!-- img/icons from devicon.dev, icons8.com, or vectorlogo.zone -->
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img alt="React" height="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img alt="Express.js" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<code><img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MySQL"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-| **:hibiscus: Frontend**          | <img alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="WebAssembly" title="WebAssembly" width="32"/> <br /> <img alt="HTML5" title="HTML5"  width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> <img alt="CSS3" title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img alt="SCSS" title="SCSS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />  <img alt="React/React Native" title="React/React Native" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img alt="NextJS" title="NextJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> <img alt="Jekyll" title="Jekyll" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" /> |
-|----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **:briefcase: Backend**          | <img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" title="c++" width="32" height="32"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" title="c#" width="32" height="32"/> <br />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="nodejs" width="32" height="32"/> <img alt="SQL" title="SQL" width="32px" src="https://img.icons8.com/metro/32/4a90e2/database.png" /> <img alt="Firebase" title="Firebase" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> <img alt="SpringBoot" title="SpringBoot" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img alt="Rust" title="Rust" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />                                                                                                                                |
-| **:robot: DevOps**          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="linux" width="32" height="32"/> <img alt="Bash" title="Bash" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /> <img alt="GitHub" title="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="32" height="32"/> <br />                                                                                                                                 |
-| **:books: Libraries/Frameworks** | <img alt="Node.js" title="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img alt="React/React Native" title="React/React Native" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img alt="electron" title="electron" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="express" width="32" height="32"/> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestJS" title="nestJS" width="32" height="32"/> <br /> <img alt="NextJS" title="NextJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" title="Django" width="32" height="32"/> <img src="https://img.icons8.com/ios/32/000000/flask.png" alt="Flask" title="Flask" width="32" height="32"/> <img alt="GraphQL" title="GraphQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />                                                                                                                          |
-| **:art: Design**                 | <img alt="Photoshop" title="Photoshop" src="https://img.icons8.com/fluent/32/000000/adobe-photoshop.png"/> <img alt="Illustrator" title="Illustrator" src="https://img.icons8.com/color/32/000000/adobe-illustrator.png"/> <img alt="After Effects" title="After Effects" src="https://img.icons8.com/color/32/000000/adobe-after-effects.png"/> <img alt="Figma" title="Figma" src="https://img.icons8.com/color/32/000000/figma.png"/> <br /> <img alt="Blender" title="Blender" src="https://img.icons8.com/color/32/000000/blender-3d.png"/>                                                                                                                                                            |
-                                                                                                                                                                                                                |
-
-
----
+<br />---
 <!---
 josuemour4/josuemour4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
