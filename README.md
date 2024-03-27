@@ -31,17 +31,6 @@
 
 
 
-- 🇧🇷 I am Josue, from Brazil and a family person 👪
-- 📌 Currently living in Australia 🐧
-- 😄  I have been an electrician for over 8 years and have worked in the technology field for over 10. 
-- 🔍 Looking into ** web work as a volunteer ** Opportunities
-- 👀 I’m interested in technology, sport, music, cook, anything that is healthy.
-- 🌱 I’m currently learning web technologies, especially node.js and react.
-- 💞️ I’m looking to collaborate on javascript projects to get better experience.
-- 📫 To each me <a href="https://josuemour4.github.io" target='_blank' rel="noreferrer"> <img alt="Josue Moura's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
-- ⚡ Fun fact: ...
-
-
 ## 🗨 Languages + 🛠 Tools
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
@@ -58,7 +47,7 @@
 <code><img alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" /></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<br />---
+<br />
 <!---
 josuemour4/josuemour4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
