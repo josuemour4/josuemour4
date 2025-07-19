@@ -6,13 +6,13 @@
   <div style="margin-left: 10px;">Hi, my name is Josue from Brazil 🇧🇷, married and father of a beautiful girl. I personally consider myself a family person 👪.</div>
 </div>
 
-### Academic education::
+### Academic education:
 
 - ⏚ Electronics Technician: ETEC - Brazil
 - 🖥️ Industrial Automation: Faculdade UniAnchieta - Brazil
 - 🌐 Analysis and Systems Development: Anhanguera - Brazil
 - ⚡ Electrotechnology Electrician: Superior Training Center - Australia
-
+- ⚡ Electrical engineering: Studying on your own => Check it -> josuemour4.github.io/EEC
   
 ---
 
