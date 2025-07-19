@@ -12,7 +12,7 @@
 - 🖥️ Industrial Automation: Faculdade UniAnchieta - Brazil
 - 🌐 Analysis and Systems Development: Anhanguera - Brazil
 - ⚡ Electrotechnology Electrician: Superior Training Center - Australia
-- ⚡ Electrical engineering: Studying on your own => Check it -> josuemour4.github.io/EEC
+- ⚡ Electrical engineering: Studying on your own => Check it -> [📚 My Space](https://josuemour4.github.io/EEC)
   
 ---
 
